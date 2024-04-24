@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Custom license"
+
+[[mods]]
+modId="minecraftadditions"
+version="1.0"
+displayName="Minecraft Additions"
+credits="Minecraft Additions is a mod that mkaes the game more fun / adds more items."
+displayURL="https://modrinth.com/mod/mc-additions/"
+logoFile="logo.png"
+authors="xdec"
+description='''
+made by xdec, made with mcreator
+'''
+
+[[dependencies.minecraftadditions]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
